@@ -1,0 +1,87 @@
+[
+    {
+            "nombre": "Guerrero",
+            "descripcion": "Un combatiente fuerte y resistente, experto en el uso de armas cuerpo a cuerpo.",
+            "habilidades": [
+                "Ataque poderoso",
+                "Defensa robusta",
+                "Furia de batalla"
+            ],
+            "atributos": {
+                "fuerza": 9,
+                "constitución": 8,
+                "destreza": 6,
+                "vida": 100,
+                "velocidad": 6,
+                "mana": 30
+            }
+        },
+        {
+            "nombre": "Mago",
+            "descripcion": "Un maestro de las artes arcanas, capaz de lanzar hechizos devastadores.",
+            "habilidades": [
+                "Bola de fuego",
+                "Escudo mágico",
+                "Teletransportación"
+            ],
+            "atributos": {
+                "inteligencia": 9,
+                "sabiduría": 7,
+                "constitución": 5,
+                "vida": 60,
+                "velocidad": 7,
+                "mana": 100
+            }
+        },
+        {
+            "nombre": "Pícaro",
+            "descripcion": "Un experto en sigilo y ataques sorpresa, ideal para misiones de infiltración.",
+            "habilidades": [
+                "Ataque furtivo",
+                "Desactivar trampas",
+                "Camuflaje"
+            ],
+            "atributos": {
+                "destreza": 9,
+                "carisma": 6,
+                "inteligencia": 6,
+                "vida": 70,
+                "velocidad": 9,
+                "mana": 40
+            }
+        },
+        {
+                "nombre": "Clérigo",
+                "descripcion": "Un devoto sanador y protector, canaliza poderes divinos para ayudar a sus aliados.",
+                "habilidades": [
+                    "Curación",
+                    "Protección divina",
+                    "Expulsar no-muertos"
+                ],
+                "atributos": {
+                    "sabiduría": 8,
+                    "carisma": 7,
+                    "fuerza": 5,
+                    "vida": 80,
+                    "velocidad": 5,
+                    "mana": 90
+                }
+        },
+            {
+            "nombre": "Explorador",
+            "descripcion": "Un experto en supervivencia y rastreo, hábil en el combate a distancia.",
+            "habilidades": [
+                "Rastreo",
+                "Tiro preciso",
+                "Supervivencia"
+            ],
+            "atributos": {
+                "destreza": 8,
+                "percepción": 9,
+                "constitución": 6,
+                "vida": 70,
+                "velocidad": 8,
+                "mana": 40
+            }
+        }
+    ]

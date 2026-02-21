@@ -1,0 +1,45 @@
+[
+        {
+            "nombre": "Espada Larga",
+            "tipo": "Cuerpo a Cuerpo",
+            "daño": 8,
+            "precio": 15,
+            "rareza": "Común"
+        },
+        {
+            "nombre": "Arco Largo",
+            "tipo": "A distancia",
+            "daño": 8,
+            "precio": 50,
+            "rareza": "Poco Común"
+        },
+        {
+            "nombre": "Daga Envenenada",
+            "tipo": "Cuerpo a Cuerpo",
+            "daño": 5,
+            "precio": 25,
+            "rareza": "Rara"
+        },
+        {
+            "nombre": "Martillo de Guerra",
+            "tipo": "Cuerpo a Cuerpo",
+            "daño": 10,
+            "precio": 20,
+            "rareza": "Común"
+        },
+        {
+            "nombre": "Ballesta Pesada",
+            "tipo": "A distancia",
+            "daño": 10,
+            "precio": 75,
+            "rareza": "Poco Común"
+        },
+        {
+            "nombre": "Lanza Mágica",
+            "tipo": "Cuerpo a Cuerpo",
+            "daño": 6,
+            "precio": 100,
+            "rareza": "Épica"
+        }
+
+    ]

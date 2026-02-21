@@ -1,0 +1,39 @@
+
+    [
+        {
+        "nombre": "Armadura de cuero",
+        "defensa": 5,
+        "peso": 10,
+        "rareza": "Común"
+        },
+        {
+        "nombre": "Armadura de hierro",
+        "defensa": 15,
+        "peso": 30,
+        "rareza": "Poco Común"
+        },
+        {
+        "nombre": "Armadura de acero",
+        "defensa": 25,
+        "peso": 40,
+        "rareza": "Rara"
+        },
+        {
+        "nombre": "Armadura mágica",
+        "defensa": 40,
+        "peso": 20,
+        "rareza": "Épica"
+        },
+        {
+        "nombre": "Armadura legendaria",
+        "defensa": 60,
+        "peso": 15,
+        "rareza": "Legendaria"
+        },
+        {
+        "nombre": "Armadura de dragón",
+        "defensa": 80,
+        "peso": 25,
+        "rareza": "Mítica"
+        }
+    ]

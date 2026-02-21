@@ -1,0 +1,92 @@
+ [
+        {
+            "id": 1,
+            "nombre":"Botas de Velocidad",
+            "descripcion":"Botas que aumentan la velocidad de movimiento.",
+            "efectos":{
+                "velocidad": 10
+            }
+        },
+        {
+            "id": 2,
+            "nombre":"Anillo de Fortaleza",
+            "descripcion":"Anillo que aumenta la fuerza física.",
+            "efectos":{
+                "fuerza": 15
+            }
+        },
+        {
+            "id": 3,
+            "nombre":"Amuleto de Defensa",
+            "descripcion":"Amuleto que aumenta la defensa contra daño.",
+            "efectos":{
+                "defensa": 12
+            }
+        },
+        {
+            "id": 4,
+            "nombre":"Collar de Inteligencia",
+            "descripcion":"Collar que potencia las habilidades mágicas.",
+            "efectos":{
+                "inteligencia": 8
+            }
+        },
+        {
+            "id": 5,
+            "nombre":"Gema de Vitalidad",
+            "descripcion":"Gema que restaura puntos de vida.",
+            "efectos":{
+                "regeneracion_vida": 5
+            }
+        },
+        {
+            "id": 6,
+            "nombre":"Brazalete Arcano",
+            "descripcion":"Brazalete que amplifica la magia y el poder arcano.",
+            "efectos":{
+                "poder_magico": 6
+            }
+        },
+        {
+            "id": 7,
+            "nombre":"Talismán de Suerte",
+            "descripcion":"Talismán que aumenta la probabilidad de críticos.",
+            "efectos":{
+                "probabilidad_critico": 7
+            }
+        },
+        {
+            "id": 8,
+            "nombre":"Pulsera de Maná",
+            "descripcion":"Pulsera que regenera energía mágica.",
+            "efectos":{
+                "regeneracion_mana": 4
+            }
+        },
+        {
+            "id": 9,
+            "nombre":"Medallón de Resistencia",
+            "descripcion":"Medallón que aumenta la resistencia a elementos.",
+            "efectos":{
+                "resistencia": 11
+            }
+        },
+        {
+            "id": 10,
+            "nombre":"Joya de Visión",
+            "descripcion":"Joya que mejora la percepción del entorno.",
+            "efectos":{
+                "percepcion": 6
+            }
+        },
+        {
+            "id": 11,
+            "nombre":"Sombrero del Hechicero",
+            "descripcion":"Sombrero antiguo que amplifica el poder de los hechizos.",
+            "efectos":{
+                "poder_magico": 14,
+                "regeneracion_mana": 3
+            }
+        }
+
+    ]

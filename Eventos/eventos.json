@@ -1,0 +1,59 @@
+[
+    {
+        "tipo": "Trampa de Pinchos",
+        "descripcion": "¡Pisaste una trampa de pinchos afilados!",
+        "probabilidad": 20,
+        "efectos": {
+            "daño": -10
+        }
+    },
+    {
+        "tipo": "Trampa de Dardos",
+        "descripcion": "¡Unos dardos envenenados salen de la pared!",
+        "probabilidad": 15,
+        "efectos": {
+            "daño": -15
+        }
+    },
+    {
+        "tipo": "Cofre del Tesoro",
+        "descripcion": "Encuentras un cofre con objetos valiosos.",
+        "probabilidad": 25,
+        "efectos": {
+            "tesoro": 1
+        }
+    },
+    {
+        "tipo": "Fuente Curativa",
+        "descripcion": "Una fuente mágica brilla con luz dorada.",
+        "probabilidad": 30,
+        "efectos": {
+            "vida": 30,
+            "mana": 15
+        }
+    },
+    {
+        "tipo": "Fuente de Maná",
+        "descripcion": "Una fuente arcana restaura tu energía mágica.",
+        "probabilidad": 25,
+        "efectos": {
+            "mana": 30
+        }
+    },
+    {
+        "tipo": "Altar Antiguo",
+        "descripcion": "Un altar antiguo te bendice temporalmente.",
+        "probabilidad": 15,
+        "efectos": {
+            "bendicion": 1
+        }
+    },
+    {
+        "tipo": "Mercader Ambulante",
+        "descripcion": "Un mercader misterioso aparece con objetos raros.",
+        "probabilidad": 10,
+        "efectos": {
+            "mercader": 1
+        }
+    }
+]

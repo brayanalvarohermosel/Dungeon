@@ -1,0 +1,147 @@
+[
+        {
+            "nombre": "Goblin",
+            "vida": 30,
+            "ataque": 5,
+            "defensa": 2,
+            "velocidad": 10,
+            "tipo": "subdito",
+            "nivel": 1
+        },
+        {
+            "nombre": "Orco",
+            "vida": 50,
+            "ataque": 10,
+            "defensa": 5,
+            "velocidad": 7,
+            "tipo": "subdito",
+            "nivel": 1
+        },
+        {
+            "nombre": "Troll",
+            "vida": 80,
+            "ataque": 15,
+            "defensa": 10,
+            "velocidad": 4,
+            "tipo": "subdito",
+            "nivel": 1
+        },
+        {
+            "nombre": "Dragón",
+            "vida": 200,
+            "ataque": 25,
+            "defensa": 15,
+            "velocidad": 12,
+            "tipo": "Jefe",
+            "nivel": 1
+        },
+        {
+            "nombre": "esqueleto",
+            "vida": 40,
+            "ataque": 8,
+            "defensa": 3,
+            "velocidad": 9,
+            "tipo": "subdito",
+            "nivel": 2
+        },
+        {
+            "nombre": "zombi",
+            "vida": 40,
+            "ataque": 8,
+            "defensa": 3,
+            "velocidad": 9,
+            "tipo": "subdito",
+            "nivel": 2
+        },
+        {
+            "nombre": "Bandido",
+            "vida": 40,
+            "ataque": 8,
+            "defensa": 3,
+            "velocidad": 9,
+            "tipo": "subdito",
+            "nivel": 2
+        },
+        {
+            "nombre": "Señor de la Cripta",
+            "vida": 150,
+            "ataque": 20,
+            "defensa": 12,
+            "velocidad": 10,
+            "tipo": "Jefe",
+            "nivel": 2
+        },
+        
+        {
+            "nombre": "Guerrero Orco",
+            "vida": 60,
+            "ataque": 12,
+            "defensa": 5,
+            "velocidad": 8,
+            "tipo": "subdito",
+            "nivel": 3
+        },
+        {
+            "nombre": "Asesino Orco",
+            "vida": 60,
+            "ataque": 12,
+            "defensa": 5,
+            "velocidad": 8,
+            "tipo": "subdito",
+            "nivel": 3
+        },
+        {
+            "nombre": "Hechicero Orco",
+            "vida": 60,
+            "ataque": 12,
+            "defensa": 5,
+            "velocidad": 8,
+            "tipo": "subdito",
+            "nivel": 3
+        },
+        {
+            "nombre": "Rey Orco",
+            "vida": 220,
+            "ataque": 28,
+            "defensa": 16,
+            "velocidad": 11,
+            "tipo": "Jefe",
+            "nivel": 3
+        },
+        {
+            "nombre": "Guerrero Oscuro",
+            "vida": 60,
+            "ataque": 12,
+            "defensa": 5,
+            "velocidad": 8,
+            "tipo": "subdito",
+            "nivel": 4
+        },
+        {
+            "nombre": "Asesino",
+            "vida": 60,
+            "ataque": 12,
+            "defensa": 5,
+            "velocidad": 8,
+            "tipo": "subdito",
+            "nivel": 4
+        },
+        {
+            "nombre": "Hechicero",
+            "vida": 60,
+            "ataque": 12,
+            "defensa": 5,
+            "velocidad": 8,
+            "tipo": "subdito",
+            "nivel": 4
+        },
+        {
+            "nombre": "Rey Demonio",
+            "vida": 220,
+            "ataque": 28,
+            "defensa": 16,
+            "velocidad": 11,
+            "tipo": "Jefe",
+            "nivel": 4
+        }
+    ]

@@ -1,0 +1,82 @@
+[
+        {
+            "nombre": "Poción de Vida Menor",
+            "descripcion": "Restaura 20 puntos de vida.",
+            "rareza": "Común",
+            "efectos": {
+                "vida": 20
+            }
+        },
+        {
+            "nombre": "Poción de Vida Mediana",
+            "descripcion": "Restaura 50 puntos de vida.",
+            "rareza": "Poco Común",
+            "efectos": {
+                "vida": 50
+            }
+        },
+        {
+            "nombre": "Poción de Vida Grande",
+            "descripcion": "Restaura 100 puntos de vida.",
+            "rareza": "Raro",
+            "efectos": {
+                "vida": 100
+            }
+        },
+        {
+            "nombre": "Poción de Mana Menor",
+            "descripcion": "Restaura 15 puntos de mana.",
+            "rareza": "Común",
+            "efectos": {
+                "mana": 15
+            }
+        },
+        {
+            "nombre": "Poción de Mana Mediana",
+            "descripcion": "Restaura 40 puntos de mana.",
+            "rareza": "Poco Común",
+            "efectos": {
+                "mana": 40
+            }
+        },
+        {
+            "nombre": "Poción de Mana Grande",
+            "descripcion": "Restaura 80 puntos de mana.",
+            "rareza": "Raro",
+            "efectos": {
+                "mana": 80
+            }
+        },
+        {
+            "nombre": "Poción de Fuerza",
+            "descripcion": "Aumenta la fuerza en 5 puntos durante 10 minutos.",
+            "rareza": "Infrecuente",
+            "efectos": {
+                "fuerza": 5
+            }
+        },
+        {
+            "nombre": "Poción de Destreza",
+            "descripcion": "Aumenta la destreza en 5 puntos durante 10 minutos.",
+            "rareza": "Infrecuente",
+            "efectos": {
+                "destreza": 5
+            }
+        },
+        {
+            "nombre": "Poción de Inteligencia",
+            "descripcion": "Aumenta la inteligencia en 5 puntos durante 10 minutos.",
+            "rareza": "Infrecuente",
+            "efectos": {
+                "inteligencia": 5
+            }
+        },
+        {
+            "nombre": "Poción de Velocidad",
+            "descripcion": "Aumenta la velocidad en 5 puntos durante 10 minutos.",
+            "rareza": "Infrecuente",
+            "efectos": {
+                "velocidad": 5
+            }
+        }
+    ]
